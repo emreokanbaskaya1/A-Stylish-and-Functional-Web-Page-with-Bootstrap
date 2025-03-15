@@ -10,4 +10,4 @@ Visual Appeal: High-quality images and a Bootstrap Carousel for an engaging user
 Modern Footer: A structured footer with navigation links and copyright details.
 Feel free to fork this repository and explore the code to customize it for your needs! 🎯
 
-🔗 Live Demo: (If you have a deployed version, you can add the link here.)
+🔗 Live Demo: https://emreokanbaskaya1.github.io/A-Stylish-and-Functional-Web-Page-with-Bootstrap/
